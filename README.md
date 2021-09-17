@@ -1,6 +1,6 @@
 # YouTube-Analytics
 
-Trying to analyse my youtube data using pandas.
+Analysing my youtube data using pandas.
 
 Data downloaded from google. Watch history as JSON not HTML. Thought to use webscraping, but this was less efficient.
 
